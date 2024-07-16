@@ -1,0 +1,2 @@
+;; Generated package description from preview-tailor.el  -*- no-byte-compile: t -*-
+(define-package "preview-tailor" "0.2.0.20240617.174356" "Tailor AUCTeX preview scale to monitor/text scale" '((emacs "29.1") (auctex "0")) :commit "bb92fac553c8ddb87f64f4c9829762b58764c1ff" :authors '(("Paul D. Nelson" . "nelson.paul.david@gmail.com")) :maintainer '("Paul D. Nelson" . "nelson.paul.david@gmail.com") :keywords '("tex" "multimedia") :url "https://github.com/ultronozm/preview-tailor.el")
